@@ -11,8 +11,8 @@ function App() {
 
   </textarea>
    </div>
-   <div className="previewer-container" id="preview">
-
+   <div className="previewer-container">
+     
    </div>
     </>
   )
