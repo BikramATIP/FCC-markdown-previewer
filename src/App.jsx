@@ -1,19 +1,13 @@
-
-
+import { useState } from 'react';
+import './App.css';
+import ReactMarkdown from 'react-markdown';
 
 function App() {
-  
+
 
   return (
     <>
-   <div className="editor-container">
-  <textarea id="editor">
-
-  </textarea>
-   </div>
-   <div className="previewer-container">
      
-   </div>
     </>
   )
 }
