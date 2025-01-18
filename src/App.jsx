@@ -60,7 +60,7 @@ function App() {
   return (
     <>
     <div className="editor-container">
-      <div className="editor-label">Editor</div>
+      <div className="editor-label">Markdown Editor</div>
      <textarea id="editor" className="editor" value={markdown} onChange={(e) => setMarkdown(e.target.value)}></textarea>
      </div>
       <div className="preview-container">
