@@ -1,1 +1,1 @@
-## Check out the website here: [HERE](fcc-markdown-previewer-bikramatip.netlify.app)
+## Check out the website [here](fcc-markdown-previewer-bikramatip.netlify.app)
